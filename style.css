@@ -1,0 +1,17 @@
+body{font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50Px;
+    
+}
+.red-color{
+    color: tomato;
+}
+section{display:flex;}
+
+.half-width{width: 80;
+padding: 5%;}
+.link-button{text-decoration:none;
+background-color: gray;
+padding: 10px 40px;
+border-radius: 10%;}
